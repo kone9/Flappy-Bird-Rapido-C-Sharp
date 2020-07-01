@@ -1,0 +1,6 @@
+/home/ariel/Escritorio/FlappyBird rapido C#/.mono/temp/bin/Debug/FlappyBird rapido C#.dll
+/home/ariel/Escritorio/FlappyBird rapido C#/.mono/temp/bin/Debug/FlappyBird rapido C#.pdb
+/home/ariel/Escritorio/FlappyBird rapido C#/.mono/temp/obj/Debug/FlappyBird rapido C#.csprojAssemblyReference.cache
+/home/ariel/Escritorio/FlappyBird rapido C#/.mono/temp/obj/Debug/FlappyBird rapido C#.csproj.CoreCompileInputs.cache
+/home/ariel/Escritorio/FlappyBird rapido C#/.mono/temp/obj/Debug/FlappyBird rapido C#.dll
+/home/ariel/Escritorio/FlappyBird rapido C#/.mono/temp/obj/Debug/FlappyBird rapido C#.pdb

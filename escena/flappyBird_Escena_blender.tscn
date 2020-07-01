@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://escena_importada/flappyBird_Escena_blender.glb" type="PackedScene" id=1]
+
+[node name="flappyBird_Escena_blender" instance=ExtResource( 1 )]
